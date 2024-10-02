@@ -44,6 +44,6 @@ public class mortgageCalculator {
 
             System.out.println("Interest paid : " + totalInterest);
         }
-    
+
 
 }
